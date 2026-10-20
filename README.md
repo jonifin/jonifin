@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonifin IT consultant and developer trying to solve real problems and sometimes creating new ones.
+- 👋 Hi, This is my own personal account. I’m @jonifin IT consultant and developer trying to solve real problems and sometimes creating new ones.
 
 <!---
 jonifin/jonifin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
